@@ -1,4 +1,5 @@
 package main
+
 import "strings"
 
 func validateUserInput(firstName string, lastName string, email string, userTickets uint) (bool, bool, bool) {
